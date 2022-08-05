@@ -1,6 +1,9 @@
 
 
 {
-    "hello":"Hello",
-    "hi":"HI"
+    "Hello":"Hello :username",
+    "About Page": "About Page",
+    "English": "English",
+    "Myanmar": "Myanmar"
+
 }

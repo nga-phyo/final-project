@@ -10,6 +10,7 @@
 <body>
 
 
+    @include('navbar')
     @yield('text')
 
 

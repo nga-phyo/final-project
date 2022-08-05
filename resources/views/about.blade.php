@@ -4,6 +4,6 @@
 @section('title', 'About Page')
 
 @section('text')
-<h1>@lang('hi')</h1>
+<h1>@lang('About Page')</h1>
     
 @endsection
